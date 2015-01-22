@@ -1,0 +1,26 @@
+{
+  "name": "loopNext",
+  "version": "0.0.1",
+  "description": "Run loops with async statements in a sync fashion. Did I tell you about nested sync loops?",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darkowlzz/loopNext.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "loop",
+    "async",
+    "nested",
+    "sync",
+    "next"
+  ],
+  "author": "Sunny <indiasuny000@gmail.com> (darkowlzz)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.1"
+  }
+}
