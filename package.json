@@ -1,6 +1,6 @@
 {
-  "name": "loopNext",
-  "version": "0.0.1",
+  "name": "loopnext",
+  "version": "0.0.2",
   "description": "Run loops with async statements in a sync fashion. Did I tell you about nested sync loops?",
   "main": "index.js",
   "repository": {

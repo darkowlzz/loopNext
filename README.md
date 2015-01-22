@@ -10,7 +10,7 @@ Run loops with async statements in a sync fashion. Did I tell you about nested s
   1. Install it:
 
     ```bash
-    $ npm i loopNext
+    $ npm i loopnext
     ```
 
   2. Require it and use:
