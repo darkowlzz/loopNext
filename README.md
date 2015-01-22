@@ -16,7 +16,7 @@ Run loops with async statements in a sync fashion. Did I tell you about nested s
   2. Require it and use:
 
     ```js
-    var LoopNext = require('loopNext');
+    var LoopNext = require('loopnext');
     var loop = new LoopNext();
     loop.syncLoop(iterations, function (l) {
       // loop body
@@ -26,7 +26,7 @@ Run loops with async statements in a sync fashion. Did I tell you about nested s
 
 ## Example
 ```js
-var LoopNext = require('loopNext');
+var LoopNext = require('loopnext');
 
 var loop = new LoopNext();
 var count = 0;
